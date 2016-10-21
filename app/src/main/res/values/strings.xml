@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">movieCritic</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_on_click">onClickActivity</string>
+    <string name="title_activity_settings">settingsActivity</string>
+    <string name="pref_units_label">Sort By</string>
+
+    <!-- Label for metric option in temperature unit preference [CHAR LIMIT=25] -->
+    <string name="pref_units_label_popular">Popular</string>
+
+    <!-- Label for imperial option in temperature unit preference [CHAR LIMIT=25] -->
+    <string name="pref_units_label_toprated">Top Rated</string>
+
+    <!-- Key name for temperature unit preference in SharedPreferences [CHAR LIMIT=NONE] -->
+    <string name="pref_units_keys" translatable="false">units</string>
+    <string name="pref_units_keysnew" translatable="false">units</string>
+    <!-- Value in SharedPreferences for metric temperature unit option [CHAR LIMIT=NONE] -->
+    <string name="pref_units_popular_unit" translatable="false">popular</string>
+    <string name="pref_units_popular_unitnew" translatable="false">popular</string>
+
+    <!-- Value in SharedPreferences for imperial temperature unit option [CHAR LIMIT=NONE] -->
+    <string name="pref_units_toprated_unit" translatable="false">top_rated</string>
+    <string name="pref_units_toprated_unitnew" translatable="false">top_rated</string>
+    <string name="pref_units_options" translatable="false">Options</string>
+
+    <string name="detail_title" translatable="false">MovieDetail</string>
+
+    <string name="app_title" translatable="false">Pop Movies</string>
+
+
+</resources>
